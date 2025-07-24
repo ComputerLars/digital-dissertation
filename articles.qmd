@@ -1,0 +1,25 @@
+---
+title: "Articles"
+---
+
+## Published Articles
+
+This page catalogues the peer‑reviewed articles that form part of the dissertation. Each entry links to a local PDF and, where relevant, a video commentary.
+
+:::{#article1}
+### Article 1: Title of First Article
+
+* **PDF:** [Download](static/article1.pdf)
+* **Video commentary:** <https://youtu.be/example1>
+
+Provide a brief summary of the article and explain how it connects to the overarching narrative.
+:::
+
+:::{#article2}
+### Article 2: Title of Second Article
+
+* **PDF:** [Download](static/article2.pdf)
+* **Video commentary:** <https://youtu.be/example2>
+
+Provide a brief summary of the second article.
+:::

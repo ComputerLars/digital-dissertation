@@ -1,0 +1,17 @@
+---
+title: "Interactive Demonstration"
+---
+
+## Interactive AI Interface
+
+This page embeds an interface to the AI system you use in your research. In the web edition, an iframe loads Silly Tavern or another live demonstration. In the PDF edition, a screenshot and descriptive text stand in its place.
+
+:::{html}
+<iframe src="https://example.com/silly-tavern" width="100%" height="600" frameborder="0"></iframe>
+:::
+
+:::{pdf}
+![Screenshot of the AI interface](images/interface-screenshot.jpg)
+
+The interactive interface is accessible online at <https://example.com/silly-tavern>. This static image illustrates its layout for the evaluators.
+:::

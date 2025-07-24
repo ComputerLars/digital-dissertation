@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Digital Dissertation"
+  page-navigation: true
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Articles"
+        href: articles.qmd
+      - text: "Interactive"
+        href: interaction.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+  pdf:
+    documentclass: scrbook
+    toc: true
+    include-in-header:
+      text: |
+        % include packages for figures
+        \usepackage{graphicx}

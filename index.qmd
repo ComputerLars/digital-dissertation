@@ -1,0 +1,29 @@
+---
+title: "Cape: Digital Dissertation"
+---
+
+## Overview
+
+This opening chapter introduces the longform narrative of the dissertation. It situates the work at the intersection of artificial intelligence, democracy and artistic practice. Use this space to develop your argument in a sustained prose form.
+
+:::{#introduction-video}
+### Introduction Video
+
+For web readers, the video essay below offers a succinct synthesis of the project’s themes. In the PDF edition, a still frame is provided along with a link to the hosted video.
+
+:::{html}
+<iframe width="640" height="360" src="https://player.vimeo.com/video/123456789?title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
+:::
+
+:::{pdf}
+![Still from the introduction video](images/video-still.jpg)
+
+View the full video essay online at: <https://player.vimeo.com/video/123456789>
+:::
+:::
+
+## Context
+
+Describe the theoretical landscape, cite your published articles and explain how they connect. Link directly to each article’s page in this site.
+
+For example, see [Article 1](articles.qmd#article1).

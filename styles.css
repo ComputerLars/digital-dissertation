@@ -1,0 +1,21 @@
+/* Custom styles for the dissertation site */
+
+body {
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Georgia', serif;
+  margin-top: 1.5rem;
+}
+
+a {
+  color: #005f6b;
+}
+
+.toc {
+  border-left: 4px solid #e0e0e0;
+  padding-left: 1rem;
+  margin-left: 0;
+}
