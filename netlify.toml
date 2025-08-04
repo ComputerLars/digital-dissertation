@@ -1,10 +1,12 @@
 [build]
 publish = "_site"
-# No build command! The plugin handles it.
+# remove any 'command' here—let the plugin handle it
 
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
 
   [plugins.inputs]
-  version = "latest" # Optional, can specify a version like "1.5.47"
-  cmd = "render"
+  # install the latest Quarto release
+  version = "latest"
+  # only render HTML (skip PDF)
+  cmd = "render --to html"
